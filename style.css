@@ -1,0 +1,86 @@
+body{
+    background-color: dimgray;
+}
+
+.logo{
+    position: relative;
+    bottom: 3.7rem;
+}
+
+.speech{
+    background-color: transparent;
+    padding: 6rem;
+    width: 700px;
+}
+
+
+.speech h3 {
+    color: red;
+    text-align: justify;
+
+}
+
+.speech h1 {
+    color: white;
+    text-align: justify;
+    
+}
+
+.speech p {
+    color: white;
+    text-align: justify;
+}
+
+.speech button{
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 0.5rem;
+    border-radius: 2rem;
+}
+
+.pics h3{
+    background-color: transparent;
+    color: white;
+
+}
+
+.pics h5{
+    background-color: transparent;
+    color: white
+}
+
+.photo {
+    position: relative;
+    left: 1rem;
+}
+
+.all{
+    display: flex;
+}
+
+nav{
+    display: flex;
+    background-color: transparent;
+    justify-content: flex-end;
+}
+
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+
+
+}
+nav ul li button{
+    text-decoration: none;
+  
+}                
+   
+nav  ul li button a{ 
+    color: black;
+    text-decoration: none;
+
+      
+    
+}
